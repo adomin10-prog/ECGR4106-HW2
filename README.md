@@ -1,6 +1,18 @@
 # ECGR 4106 Homework 2: Character Language Models
+Below is the exicuted notebook organized as so
+1. Requirements
+2. Helper functions
+3. Plot functions
+4. Problem 1 - Basic RNN character language model
+5. Problem 1 plots and results
+6. Problem 2 - LSTM character language model
+7. Problem 2 plots and results
+8. Problem 3 - GRU character language model
+9. Problem 3 plots and results
+10. Analysis and conclusion
 
-link to exicuted notebook file https://colab.research.google.com/github/adomin10-prog/ECGR4106-HW2/blob/main/ECGR4106_HW2_CLM.ipynb
+link to exicuted notebook file via Colab https://colab.research.google.com/github/adomin10-prog/ECGR4106-HW2/blob/main/ECGR4106_HW2_CLM.ipynb
+
 ## Notebook Cells
 
 ## Cell 1 
