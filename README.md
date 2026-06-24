@@ -8,7 +8,7 @@ This README was generated from the executed Jupyter notebook `ECGR4106_HW2_CLM.i
 
 ## Notebook Cells
 
-## Cell 1 — Code `In [13]`
+## Cell 1 
 
 ```python
 # ============================================================
