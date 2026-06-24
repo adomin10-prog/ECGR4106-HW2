@@ -1,11 +1,6 @@
 # ECGR 4106 Homework 2: Character Language Models
 
-This README was generated from the executed Jupyter notebook `ECGR4106_HW2_CLM.ipynb`. It includes the notebook code cells and saved cell outputs.
-
-> **Note:** Image outputs are stored in the `README_assets/` folder and referenced from this README. Upload both `README.md` and the `README_assets/` folder to GitHub for the outputs to display correctly.
-
----
-
+link to exicuted notebook file https://colab.research.google.com/github/adomin10-prog/ECGR4106-HW2/blob/main/ECGR4106_HW2_CLM.ipynb
 ## Notebook Cells
 
 ## Cell 1 
